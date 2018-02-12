@@ -1,6 +1,6 @@
 class Word
-  def initialize(word_test)
-    @word = word_test
+  def initialize(word)
+    @word = word
   end
 
   def scrabble
